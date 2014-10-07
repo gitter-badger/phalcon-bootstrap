@@ -1,5 +1,6 @@
 Bootstrap component for Phalcon [![Build Status](https://travis-ci.org/JimmDiGrizli/phalcon-bootstrap.png?branch=develop)](https://travis-ci.org/JimmDiGrizli/phalcon-bootstrap) [![Dependency Status](https://www.versioneye.com/user/projects/537c890314c1582e370008db/badge.svg)](https://www.versioneye.com/user/projects/537c890314c1582e370008db)
 ===============================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/JimmDiGrizli/phalcon-bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **This component is used as a basis for [Pherlin](https://travis-ci.org/JimmDiGrizli/pherlin). I recommend to use it instead of this bootstrap.**
 
